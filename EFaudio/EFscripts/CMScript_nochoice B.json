@@ -1,0 +1,26 @@
+{
+	
+	"request": [
+	{
+		"input": {"ssml": "<content>"},
+		"voice": {"name":"en-US-Wavenet-D",
+				"languageCode": "en-US", 
+				"ssmlGender": "MALE"},
+		"audioConfig": {"audioEncoding": "MP3"}
+	},
+	{
+		"input": {"ssml": "<content>"},
+		"voice": {"name":"en-US-Wavenet-F",
+				"languageCode": "en-US", 
+				"ssmlGender": "FEMALE"},
+		"audioConfig": {"audioEncoding": "MP3"}
+	}
+],
+
+
+    "utterance": [
+		["CMScript_nochoice0001", "<speak>Please type either some, or none for the amount of caffeine, in the highlighted box below.</speak>"], 
+		["CMScript_nochoice0002", "<speak>In the highlighted cell below, please type either some, or none for the amount of caffeine you'd like to use in condition 2.  </speak>"]
+		
+	]
+}

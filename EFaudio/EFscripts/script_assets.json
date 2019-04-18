@@ -223,6 +223,14 @@
 		[
 			"CMScript_nochoice0057",
 			"<speak>  In the highlighted cell below, please type either high or low for the amount of carbon dioxide you'd like to use in Condition 2.</speak>"
+		],
+		[
+			"CMScript_nochoice0058",
+			"<speak>Please type either some, or none, for the amount of caffeine, in the highlighted box below.</speak>"
+		],
+		[
+			"CMScript_nochoice0059",
+			"<speak>In the highlighted cell below, please type either some, or none, for the amount of caffeine you'd like to use in condition 2.  </speak>"
 		]
 	]
 }
